@@ -121,7 +121,7 @@ This algorithm finds the indices of two numbers in a list that add up to a speci
 15. Zigzag Conversion
 
 File: Zigzag Conversion.java
-Created on: (Date not provided)
+Created on: April 8, 2023 00:03
 
 This algorithm converts a given string into a zigzag pattern and returns the result as a single string.
 
